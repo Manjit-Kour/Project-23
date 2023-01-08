@@ -1,0 +1,13 @@
+body{
+    background-color: paleturquoise;
+}
+table{
+    border-spacing: 10;
+}
+hr{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width:5px;
+    width:5%;
+   
+}
